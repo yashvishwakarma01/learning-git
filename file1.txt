@@ -10,3 +10,4 @@ master seventh change
 branch2 first changes
 branch2 second change
 branch2 third change
+branch2 fourth change
